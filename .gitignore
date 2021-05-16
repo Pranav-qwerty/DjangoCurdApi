@@ -1,0 +1,4 @@
+venv
+/curd_api/db.sqlite3
+/curd_api/api/__pycache__
+/curd_api/curd_api/__pycache__
